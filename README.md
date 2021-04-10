@@ -1,7 +1,7 @@
 # sirius
 Discover hidden files and directories
 
-## Install
+## Install and run
 
 `pip3 install -r requirements.txt`
 
